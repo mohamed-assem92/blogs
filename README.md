@@ -1,7 +1,7 @@
 # Mohamed Assem's & Billomat Coding Challenge
 
 ### About
-This application have 2 separate **server** and **client**
+This application have 2 separate folders **server** and **client**
 Representing **back-end** and **front-end**
 
 ## Prerequisites
