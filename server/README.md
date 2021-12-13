@@ -28,7 +28,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
 ---
 
 ### Get all blogs with pagination
-`http://localhost:8000/blogs/?limit=10&offset=0`
+`http://localhost:8000/blogs?limit=10&offset=0`
 
 **Accepts**: `limit` and `offset` as query string params
 
