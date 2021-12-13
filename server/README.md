@@ -1,8 +1,18 @@
 # Mohamed Assem's Backend Task
 
 ## About
-This backend application built using Fastify, Typescript and Redis for caching
+This backend application built using Fastify, Typescript, MongoDB and Redis for caching
 ---
+## Set ENV
+### Available ENV variables are
+
+`MONGO_URL` String representing MongoDB URL default to `'mongodb://localhost:27017/billomat-blog'`
+`MONGOOSE_DEBUG` Boolean to enable MongoDB Debug
+`PORT` Number representing the port which server will be using to listen to requests
+`REDIS_HOST` String representing redis url default to `'127.0.0.1'`
+`REDIS_PORT` Number representing redis port default to `6379`
+
+### To view all ENV navigate to `src/config.ts`
 
 ## Start
 ### Install packages `yarn`
