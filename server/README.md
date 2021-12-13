@@ -17,7 +17,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
 ## Start
 ### Install packages `yarn`
 
-### Run application `npm run dev`
+### Run application `yarn run dev`
 
 ### Swagger
 `http://localhost:8000/docs`
