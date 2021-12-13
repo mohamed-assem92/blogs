@@ -39,7 +39,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
 {
     "docs": [
         {
-            "_id": "61b574a3847cd9bf7741faa6",
+            "id": "61b574a3847cd9bf7741faa6",
             "title": "New One",
             "authorName": "Mo Assem",
             "mainImageURL": "https://media.istockphoto.com/photos/camel-and-the-pyramids-in-giza-picture-id1139238705?b=1&k=20&m=1139238705&s=170667a&w=0&h=xq2ykORROSwHdQyhtKEtHD6PSO4vTa197NRgOWZl2vk=",
@@ -48,7 +48,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
             "updatedAt": "2021-12-12T04:03:47.157Z"
         },
         {
-            "_id": "61b57507900328b5f340b649",
+            "id": "61b57507900328b5f340b649",
             "title": "Egypt is Great",
             "authorName": "Mo Assem",
             "mainImageURL": "https://media.istockphoto.com/photos/camel-and-the-pyramids-in-giza-picture-id1139238705?b=1&k=20&m=1139238705&s=170667a&w=0&h=xq2ykORROSwHdQyhtKEtHD6PSO4vTa197NRgOWZl2vk=",
@@ -81,7 +81,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
 **Returnes**: blog object
 ```
 {
-    "_id": "61b57507900328b5f340b649",
+    "id": "61b57507900328b5f340b649",
     "title": "Egypt is Great",
     "authorName": "Mo Assem",
     "mainImageURL": "https://media.istockphoto.com/photos/camel-and-the-pyramids-in-giza-picture-id1139238705?b=1&k=20&m=1139238705&s=170667a&w=0&h=xq2ykORROSwHdQyhtKEtHD6PSO4vTa197NRgOWZl2vk=",
@@ -114,10 +114,9 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
     "authorName": "Mo Assem",
     "mainImageURL": "https://media.istockphoto.com/photos/camel-and-the-pyramids-in-giza-picture-id1139238705?b=1&k=20&m=1139238705&s=170667a&w=0&h=xq2ykORROSwHdQyhtKEtHD6PSO4vTa197NRgOWZl2vk=",
     "body": "Egypt is a very beautiful country",
-    "_id": "61b577e96f412f78b7ec30b8",
+    "id": "61b577e96f412f78b7ec30b8",
     "createdAt": "2021-12-12T04:17:45.490Z",
-    "updatedAt": "2021-12-12T04:17:45.490Z",
-    "__v": 0
+    "updatedAt": "2021-12-12T04:17:45.490Z"
 }
 ```
 
@@ -133,7 +132,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
 {
     "docs": [
         {
-            "_id": "61b5752b900328b5f340b64c",
+            "id": "61b5752b900328b5f340b64c",
             "blogId": "61b57507900328b5f340b649",
             "authorName": "Mo",
             "body": "sdasdasd",
@@ -141,7 +140,7 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
             "updatedAt": "2021-12-12T04:06:03.978Z"
         },
         {
-            "_id": "61b575b56f412f78b7ec30b3",
+            "id": "61b575b56f412f78b7ec30b3",
             "blogId": "61b57507900328b5f340b649",
             "authorName": "Mo",
             "body": "yes it is",
@@ -183,9 +182,8 @@ This backend application built using Fastify, Typescript, MongoDB and Redis for 
     "blogId": "61b57507900328b5f340b649",
     "authorName": "Mo",
     "body": "yes it is",
-    "_id": "61b578bf6f412f78b7ec30ba",
+    "id": "61b578bf6f412f78b7ec30ba",
     "createdAt": "2021-12-12T04:21:19.306Z",
-    "updatedAt": "2021-12-12T04:21:19.306Z",
-    "__v": 0
+    "updatedAt": "2021-12-12T04:21:19.306Z"
 }
 ```
