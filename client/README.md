@@ -1,7 +1,7 @@
 ## Enable ENV
 
-Rename `.env.example` to be `.env`
-Then change backend url inside of it in case you have changed backend port `REACT_APP_API_URL='http://localhost:8000'
+- Rename `.env.example` to be `.env`
+- Then change backend url inside of it in case you have changed backend port `REACT_APP_API_URL='http://localhost:8000'
 `
 
 ## Available Scripts
